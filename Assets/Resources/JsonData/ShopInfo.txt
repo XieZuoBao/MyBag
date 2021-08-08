@@ -1,0 +1,47 @@
+{
+	"info": [{
+			"id": 1,
+			"itemInfo": {
+				"id": 3,
+				"num": 10
+			},
+			"priceType": 1,
+			"price": 100,
+			"iconPath":"Texture/EquipIcon/Coin",
+			"tips": "一组加血红药,便宜实惠"
+		},
+		{
+			"id": 2,
+			"itemInfo": {
+				"id": 4,
+				"num": 10
+			},
+			"priceType": 1,
+			"price": 200,
+			"iconPath":"Texture/EquipIcon/Coin",
+			"tips": "一组加蓝红药,便宜实惠"
+		},
+		{
+			"id": 3,
+			"itemInfo": {
+				"id": 1,
+				"num": 1
+			},
+			"priceType": 2,
+			"price": 400,
+			"iconPath":"Texture/EquipIcon/Gem",
+			"tips": "高级攻击武器,用来强化角色攻击输出,"
+		},
+		{
+			"id": 4,
+			"itemInfo": {
+				"id": 2,
+				"num": 1
+			},
+			"priceType": 2,
+			"price": 200,
+			"iconPath":"Texture/EquipIcon/Gem",
+			"tips": "高级防御装备,用来强化角色防御属性"
+		}
+	]
+}

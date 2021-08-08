@@ -1,0 +1,57 @@
+{
+	"info": [{
+			"id": 1,
+			"name": "匕首",
+			"iconPath": "Texture/EquipIcon/Sword1",
+			"type": 2,
+			"equipType": 3,
+			"price": 100,
+			"tips": "锋利无比,可以用于强化攻击"
+		},
+		{
+			"id": 2,
+			"name": "战甲",
+			"iconPath": "Texture/EquipIcon/Clothes",
+			"type": 2,
+			"equipType": 4,
+			"price": 150,
+			"tips": "防具,可以增加防御力"
+		},
+		{
+			"id": 3,
+			"name": "红药",
+			"iconPath": "Texture/EquipIcon/RedBig",
+			"type": 1,
+			"equipType": 0,
+			"price": 10,
+			"tips": "回血药品"
+		},
+		{
+			"id": 4,
+			"name": "蓝药",
+			"iconPath": "Texture/EquipIcon/BlueBig",
+			"type": 1,
+			"equipType": 0,
+			"price": 10,
+			"tips": "回蓝药品"
+		},
+		{
+			"id": 5,
+			"name": "金币",
+			"iconPath": "Texture/EquipIcon/Coin",
+			"type": 3,
+			"equipType": 0,
+			"price": 999,
+			"tips": "金币,用于商店购买道具"
+		},
+		{
+			"id": 6,
+			"name": "蓝宝石",
+			"iconPath": "Texture/EquipIcon/Gem",
+			"type": 3,
+			"equipType": 0,
+			"price": 999,
+			"tips": "蓝色宝石,用于商店购买道具"
+		}
+	]
+}
